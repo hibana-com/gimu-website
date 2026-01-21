@@ -64,7 +64,8 @@
     "appStore": "App Store",
     "appStoreLabel": "Télécharger sur l'",
     "playStore": "Google Play",
-    "playStoreLabel": "Disponible sur"
+    "playStoreLabel": "Disponible sur",
+    "comingSoon": "Bientôt disponible ! Restez à l'écoute."
   },
   "footer": {
     "privacy": "Politique de Confidentialité",

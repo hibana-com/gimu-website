@@ -64,7 +64,8 @@
     "appStore": "App Store",
     "appStoreLabel": "からダウンロード",
     "playStore": "Google Play",
-    "playStoreLabel": "で入手"
+    "playStoreLabel": "で入手",
+    "comingSoon": "近日公開！お楽しみに。"
   },
   "footer": {
     "privacy": "プライバシーポリシー",

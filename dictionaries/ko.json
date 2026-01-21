@@ -64,7 +64,8 @@
     "appStore": "App Store",
     "appStoreLabel": "에서 다운로드",
     "playStore": "Google Play",
-    "playStoreLabel": "에서 받기"
+    "playStoreLabel": "에서 받기",
+    "comingSoon": "곧 출시! 기대해 주세요."
   },
   "footer": {
     "privacy": "개인정보처리방침",

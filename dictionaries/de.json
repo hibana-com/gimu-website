@@ -64,7 +64,8 @@
     "appStore": "App Store",
     "appStoreLabel": "Laden im",
     "playStore": "Google Play",
-    "playStoreLabel": "Jetzt bei"
+    "playStoreLabel": "Jetzt bei",
+    "comingSoon": "Demnächst verfügbar! Bleib dran."
   },
   "footer": {
     "privacy": "Datenschutzrichtlinie",
