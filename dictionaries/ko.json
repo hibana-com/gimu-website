@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "howItWorks": "사용 방법",
+    "features": "기능",
+    "downloadFree": "무료 다운로드"
+  },
+  "hero": {
+    "badge": "함께라서 더 좋은",
+    "title": "함께 습관을 만들어요.",
+    "titleHighlight": "함께 축하해요.",
+    "description": "친구들이 당신의 참여를 도와주는 습관 트래커. 완료하면 응원을 받아요. 뒤처지면 부드러운 격려를. 낯선 사람 없이. 판단 없이. 당신의 사람들만.",
+    "cta": "무료 다운로드",
+    "secondary": "사용 방법 보기"
+  },
+  "howItWorks": {
+    "title": "",
+    "titleHighlight": "Gimu",
+    "titleEnd": " 사용 방법",
+    "description": "세 가지 간단한 단계로 친구들과 습관 만들기를 시작하세요.",
+    "step1Title": "습관 만들기",
+    "step1Description": "일일 습관을 설정하세요 - 운동, 독서, 명상 또는 기르고 싶은 무엇이든.",
+    "step2Title": "친구 초대하기",
+    "step2Description": "같은 목표를 공유하는 친구를 추가하세요. 그들은 당신의 진행 상황을 보고, 당신도 그들의 것을 봅니다. 책임감은 여기서 시작됩니다.",
+    "step3Title": "함께 승리를 축하하기",
+    "step3Description": "매일 완료하고, 연속 기록을 쌓고, 서로 응원하세요. 모두가 참여하면, 모두가 이깁니다."
+  },
+  "features": {
+    "title": "",
+    "titleHighlight": "꾸준함",
+    "description": "관심을 가져주는 사람들과 지속되는 습관을 만드는 데 필요한 모든 것.",
+    "feature1Title": "죄책감이 아닌 격려",
+    "feature1Description": "친구가 힘들어할 때, 응원을 보내세요. 하지만 조건이 있어요: 자신이 완료한 후에만 격려할 수 있어요. 죄책감 주기 없이—진정한 지지만.",
+    "feature2Title": "끊을 수 없는 연속 기록",
+    "feature2Description": "팀으로서 꾸준함을 쌓으세요. 모두가 참여하면 그룹 연속 기록이 늘어납니다. 이제 당신만의 일이 아니에요—친구들이 당신을 믿고 있어요.",
+    "feature3Title": "연결 유지하기",
+    "feature3Description": "각 습관 안에서 그룹과 채팅하세요. 팁을 공유하고, 이정표를 축하하고, 앱을 떠나지 않고 동기를 유지하세요."
+  },
+  "screenshots": {
+    "title": "",
+    "titleHighlight": "Gimu",
+    "titleEnd": " 살펴보기",
+    "description": "성공을 돕도록 설계된 아름답고 직관적인 경험."
+  },
+  "trust": {
+    "title": "당신의 습관, 당신의 규칙",
+    "description": "Gimu는 신뢰 위에 구축되었습니다. 무엇을 누구와 공유할지 당신이 정확히 제어합니다.",
+    "private": "기본적으로 비공개",
+    "privateDescription": "공유를 선택할 때까지 당신의 습관은 비공개로 유지됩니다.",
+    "friends": "진짜 친구만",
+    "friendsDescription": "낯선 사람 없이, 공개 피드 없이. 정말 아는 사람들만.",
+    "support": "판단이 아닌 지지",
+    "supportDescription": "친구는 격려하지, 비판하지 않아요. 그게 Gimu가 작동하는 방식이에요."
+  },
+  "story": {
+    "title": "Gimu를 만든 이유",
+    "descriptionPart1": "모든 습관 앱이 똑같이 느껴졌어요—다운로드하고, 일주일 쓰고, 존재를 잊어버리고. 부족한 건 더 좋은 알림이나 멋진 그래프가 아니라는 걸 깨달았어요.",
+    "descriptionHighlight": "사람",
+    "descriptionPart2": "이었어요. 진짜 친구들이 당신을 믿고 있을 때, 참여하기가 더 쉬워져요. 그래서 Gimu를 만들었어요—모두가 그 지원 시스템을 가질 수 있도록.",
+    "attribution": "— 책임감을 염두에 두고 구축"
+  },
+  "download": {
+    "title": "친구들과 습관을 만들 준비가 됐나요?",
+    "description": "오늘 여정을 시작하세요. 미래의 당신이 감사할 거예요.",
+    "appStore": "App Store",
+    "appStoreLabel": "에서 다운로드",
+    "playStore": "Google Play",
+    "playStoreLabel": "에서 받기"
+  },
+  "footer": {
+    "privacy": "개인정보처리방침",
+    "terms": "서비스 약관",
+    "contact": "문의",
+    "copyright": "© {year} Gimu. All rights reserved."
+  },
+  "screenshots_alt": {
+    "betterTogether": "함께라서 더 좋은",
+    "squadGoals": "팀 목표",
+    "realTalk": "진심 대화",
+    "mutualGoals": "공동 목표",
+    "sharedVictory": "공유된 승리",
+    "startFresh": "새로운 시작"
+  }
+}

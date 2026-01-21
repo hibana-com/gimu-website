@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "howItWorks": "Come funziona",
+    "features": "Funzionalità",
+    "downloadFree": "Scarica Gratis"
+  },
+  "hero": {
+    "badge": "Meglio Insieme",
+    "title": "Costruisci Abitudini Insieme.",
+    "titleHighlight": "Festeggia Insieme.",
+    "description": "Il tracker di abitudini dove gli amici ti aiutano a presentarti. Ricevi incoraggiamento quando completi. Ricevi supporto gentile quando sei in ritardo. Niente estranei. Niente giudizi. Solo le tue persone.",
+    "cta": "Scarica Gratis",
+    "secondary": "Scopri Come Funziona"
+  },
+  "howItWorks": {
+    "title": "Come Funziona",
+    "titleHighlight": "Gimu",
+    "titleEnd": "",
+    "description": "Inizia a costruire abitudini con gli amici in tre semplici passaggi.",
+    "step1Title": "Crea un'Abitudine",
+    "step1Description": "Imposta la tua abitudine quotidiana - che sia allenarsi, leggere, meditare o qualsiasi altra cosa tu voglia sviluppare.",
+    "step2Title": "Invita i Tuoi Amici",
+    "step2Description": "Aggiungi amici che condividono i tuoi obiettivi. Vedranno i tuoi progressi e tu vedrai i loro. La responsabilità inizia qui.",
+    "step3Title": "Festeggia le Vittorie Insieme",
+    "step3Description": "Completa ogni giorno, costruisci serie e fatevi il tifo a vicenda. Quando tutti si presentano, tutti vincono."
+  },
+  "features": {
+    "title": "Funzionalità progettate per la",
+    "titleHighlight": "Costanza",
+    "description": "Tutto ciò di cui hai bisogno per costruire abitudini durature con persone a cui importa.",
+    "feature1Title": "Incoraggiamento, Non Colpa",
+    "feature1Description": "Quando un amico sta lottando, manda un incoraggiamento. Ma c'è un trucco: puoi incoraggiare solo dopo aver completato tu stesso. Niente sensi di colpa—solo supporto genuino.",
+    "feature2Title": "Serie Che Non Puoi Lasciar Morire",
+    "feature2Description": "Costruisci costanza come squadra. La serie del tuo gruppo cresce quando tutti si presentano. Non riguarda più solo te—i tuoi amici contano su di te.",
+    "feature3Title": "Resta Connesso",
+    "feature3Description": "Chatta con il tuo gruppo direttamente in ogni abitudine. Condividi consigli, festeggia i traguardi e restate motivati senza uscire dall'app."
+  },
+  "screenshots": {
+    "title": "Guarda",
+    "titleHighlight": "Gimu",
+    "titleEnd": "in Azione",
+    "description": "Un'esperienza bella e intuitiva progettata per aiutarti ad avere successo."
+  },
+  "trust": {
+    "title": "Le Tue Abitudini, Le Tue Regole",
+    "description": "Gimu è costruito sulla fiducia. Controlli esattamente cosa condividi e con chi.",
+    "private": "Privato di Default",
+    "privateDescription": "Le tue abitudini rimangono private finché non scegli di condividerle.",
+    "friends": "Solo Veri Amici",
+    "friendsDescription": "Niente estranei, niente feed pubblici. Solo persone che conosci davvero.",
+    "support": "Supporto, Non Giudizio",
+    "supportDescription": "Gli amici incoraggiano, non criticano. È così che funziona Gimu."
+  },
+  "story": {
+    "title": "Perché Abbiamo Costruito Gimu",
+    "descriptionPart1": "Tutte le app per abitudini sembravano uguali—scaricala, usala per una settimana, dimenticati che esiste. Ci siamo resi conto che il pezzo mancante non erano promemoria migliori o grafici più eleganti. Erano le",
+    "descriptionHighlight": "persone",
+    "descriptionPart2": ". Quando hai veri amici che contano su di te, presentarsi diventa più facile. Ecco perché abbiamo costruito Gimu—così tutti possono avere quel sistema di supporto.",
+    "attribution": "— Costruito con la responsabilità in mente"
+  },
+  "download": {
+    "title": "Pronto a Costruire Abitudini con gli Amici?",
+    "description": "Inizia il tuo viaggio oggi. Il tuo io futuro ti ringrazierà.",
+    "appStore": "App Store",
+    "appStoreLabel": "Scarica su",
+    "playStore": "Google Play",
+    "playStoreLabel": "Disponibile su"
+  },
+  "footer": {
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio",
+    "contact": "Contatti",
+    "copyright": "© {year} Gimu. Tutti i diritti riservati."
+  },
+  "screenshots_alt": {
+    "betterTogether": "Meglio Insieme",
+    "squadGoals": "Obiettivi di Squadra",
+    "realTalk": "Conversazione Vera",
+    "mutualGoals": "Obiettivi Comuni",
+    "sharedVictory": "Vittoria Condivisa",
+    "startFresh": "Ricominciare"
+  }
+}

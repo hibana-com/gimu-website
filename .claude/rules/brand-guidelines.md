@@ -1,0 +1,1 @@
+/Users/nethojs/shared-gimu-guidelines/.claude/rules/brand-guidelines.md

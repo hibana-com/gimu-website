@@ -1,26 +1,95 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  /* Gimu Brand Colors */
+  --gimu-primary: #2B9EB3;
+  --gimu-primary-dark: #3DBDD4;
+  --gimu-secondary: #4A90D9;
+  --gimu-secondary-dark: #5BA3EC;
+  --gimu-tertiary: #E8A838;
+  --gimu-tertiary-dark: #FFB84D;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Semantic Colors */
+  --gimu-success: #4E9A4E;
+  --gimu-warning: #D4A017;
+  --gimu-danger: #DC3545;
+  --gimu-cheer: #E84A8A;
+
+  /* Streak Colors */
+  --gimu-streak: #E8A838;
+  --gimu-streak-fire: #FF6B35;
+
+  /* Surface Colors - Light */
+  --background: #F8F9FA;
+  --background-alt: #FFFFFF;
+  --foreground: #1A1C1E;
+  --foreground-muted: #6B7280;
+  --border: #E5E7EB;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --gimu-primary: #3DBDD4;
+    --gimu-secondary: #5BA3EC;
+    --gimu-tertiary: #FFB84D;
+    --gimu-success: #6BC66B;
+    --gimu-warning: #FFC107;
+    --gimu-danger: #FF6B6B;
+    --gimu-cheer: #FF6BA8;
+
+    --background: #0F1012;
+    --background-alt: #1A1C1E;
+    --foreground: #F5F5F5;
+    --foreground-muted: #9CA3AF;
+    --border: #374151;
   }
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-background-alt: var(--background-alt);
+  --color-foreground: var(--foreground);
+  --color-foreground-muted: var(--foreground-muted);
+  --color-border: var(--border);
+
+  --color-gimu-primary: var(--gimu-primary);
+  --color-gimu-secondary: var(--gimu-secondary);
+  --color-gimu-tertiary: var(--gimu-tertiary);
+  --color-gimu-success: var(--gimu-success);
+  --color-gimu-warning: var(--gimu-warning);
+  --color-gimu-danger: var(--gimu-danger);
+  --color-gimu-cheer: var(--gimu-cheer);
+  --color-gimu-streak: var(--gimu-streak);
+  --color-gimu-streak-fire: var(--gimu-streak-fire);
+
+  --font-sans: var(--font-inter);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom animations */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(43, 158, 179, 0.3); }
+  50% { box-shadow: 0 0 40px rgba(43, 158, 179, 0.5); }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
 }

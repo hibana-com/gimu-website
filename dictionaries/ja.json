@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "howItWorks": "使い方",
+    "features": "機能",
+    "downloadFree": "無料ダウンロード"
+  },
+  "hero": {
+    "badge": "一緒だからこそ",
+    "title": "一緒に習慣を作ろう。",
+    "titleHighlight": "一緒に喜ぼう。",
+    "description": "友達があなたを支える習慣トラッカー。完了したら応援を受け取る。遅れているときは優しい励ましを。知らない人はいない。批判もない。あなたの仲間だけ。",
+    "cta": "無料ダウンロード",
+    "secondary": "使い方を見る"
+  },
+  "howItWorks": {
+    "title": "",
+    "titleHighlight": "Gimu",
+    "titleEnd": "の使い方",
+    "description": "3つの簡単なステップで友達と習慣づくりを始めよう。",
+    "step1Title": "習慣を作成",
+    "step1Description": "毎日の習慣を設定しよう - 運動、読書、瞑想、その他身につけたいこと何でも。",
+    "step2Title": "友達を招待",
+    "step2Description": "同じ目標を持つ友達を追加。彼らはあなたの進捗を見て、あなたも彼らの進捗を見る。責任感はここから始まる。",
+    "step3Title": "一緒に勝利を祝おう",
+    "step3Description": "毎日達成して、連続記録を伸ばして、お互いを応援しよう。みんなが参加すれば、みんなが勝つ。"
+  },
+  "features": {
+    "title": "",
+    "titleHighlight": "継続",
+    "description": "大切な人と一緒に持続する習慣を作るために必要なすべて。",
+    "feature1Title": "罪悪感ではなく励まし",
+    "feature1Description": "友達が苦戦しているとき、応援を送ろう。でも条件がある：自分が完了した後でないと励ませない。罪悪感を与えない—純粋なサポートだけ。",
+    "feature2Title": "途切れさせられない連続記録",
+    "feature2Description": "チームとして継続を築く。全員が参加するとグループの連続記録が伸びる。もうあなただけの話じゃない—友達があなたを頼りにしている。",
+    "feature3Title": "つながりを保とう",
+    "feature3Description": "各習慣内でグループとチャット。コツを共有し、節目を祝い、アプリを離れずにモチベーションを保とう。"
+  },
+  "screenshots": {
+    "title": "",
+    "titleHighlight": "Gimu",
+    "titleEnd": "を見てみよう",
+    "description": "成功を助けるために設計された美しく直感的な体験。"
+  },
+  "trust": {
+    "title": "あなたの習慣、あなたのルール",
+    "description": "Gimuは信頼の上に構築されています。何を誰と共有するか、あなたが完全にコントロール。",
+    "private": "デフォルトでプライベート",
+    "privateDescription": "共有を選択するまで、あなたの習慣はプライベートのまま。",
+    "friends": "本当の友達だけ",
+    "friendsDescription": "知らない人もいない、公開フィードもない。本当に知っている人だけ。",
+    "support": "批判ではなくサポート",
+    "supportDescription": "友達は励ます、批判しない。それがGimuの仕組み。"
+  },
+  "story": {
+    "title": "Gimuを作った理由",
+    "descriptionPart1": "すべての習慣アプリは同じに感じた—ダウンロードして、1週間使って、存在を忘れる。足りなかったのは良いリマインダーや派手なグラフじゃないと気づいた。",
+    "descriptionHighlight": "人",
+    "descriptionPart2": "だった。本当の友達があなたを頼りにしているとき、続けることが簡単になる。だからGimuを作った—誰もがそのサポートシステムを持てるように。",
+    "attribution": "— 責任感を念頭に構築"
+  },
+  "download": {
+    "title": "友達と習慣を作る準備はできた？",
+    "description": "今日から旅を始めよう。未来のあなたが感謝するはず。",
+    "appStore": "App Store",
+    "appStoreLabel": "からダウンロード",
+    "playStore": "Google Play",
+    "playStoreLabel": "で入手"
+  },
+  "footer": {
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "contact": "お問い合わせ",
+    "copyright": "© {year} Gimu. All rights reserved."
+  },
+  "screenshots_alt": {
+    "betterTogether": "一緒だからこそ",
+    "squadGoals": "チームの目標",
+    "realTalk": "本音のトーク",
+    "mutualGoals": "共通の目標",
+    "sharedVictory": "共有の勝利",
+    "startFresh": "新たなスタート"
+  }
+}

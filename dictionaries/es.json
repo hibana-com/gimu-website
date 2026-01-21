@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "howItWorks": "Cómo funciona",
+    "features": "Características",
+    "downloadFree": "Descargar Gratis"
+  },
+  "hero": {
+    "badge": "Mejor Juntos",
+    "title": "Construye Hábitos Juntos.",
+    "titleHighlight": "Celebra Juntos.",
+    "description": "El rastreador de hábitos donde tus amigos te ayudan a cumplir. Recibe ánimos cuando completas. Recibe apoyo gentil cuando te retrasas. Sin extraños. Sin juicios. Solo tu gente.",
+    "cta": "Descargar Gratis",
+    "secondary": "Ver Cómo Funciona"
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "titleHighlight": "Gimu",
+    "titleEnd": "",
+    "description": "Comienza a construir hábitos con amigos en tres simples pasos.",
+    "step1Title": "Crea un Hábito",
+    "step1Description": "Configura tu hábito diario - ya sea hacer ejercicio, leer, meditar, o cualquier cosa que quieras desarrollar.",
+    "step2Title": "Invita a Tus Amigos",
+    "step2Description": "Agrega amigos que compartan tus metas. Ellos verán tu progreso y tú verás el de ellos. La responsabilidad comienza aquí.",
+    "step3Title": "Celebra los Logros Juntos",
+    "step3Description": "Completa diariamente, construye rachas y anímense mutuamente. Cuando todos cumplen, todos ganan."
+  },
+  "features": {
+    "title": "Características diseñadas para la",
+    "titleHighlight": "Consistencia",
+    "description": "Todo lo que necesitas para construir hábitos duraderos con personas que se preocupan.",
+    "feature1Title": "Ánimo, No Culpa",
+    "feature1Description": "Cuando un amigo está luchando, envía un ánimo. Pero hay un detalle: solo puedes animar después de haber completado tú mismo. Sin culpas—solo apoyo genuino.",
+    "feature2Title": "Rachas Que No Puedes Dejar Morir",
+    "feature2Description": "Construye consistencia en equipo. Tu racha grupal crece cuando todos cumplen. Ya no se trata solo de ti—tus amigos cuentan contigo.",
+    "feature3Title": "Mantente Conectado",
+    "feature3Description": "Chatea con tu grupo dentro de cada hábito. Comparte consejos, celebra logros y manténganse motivados sin salir de la app."
+  },
+  "screenshots": {
+    "title": "Mira",
+    "titleHighlight": "Gimu",
+    "titleEnd": "en Acción",
+    "description": "Una experiencia hermosa e intuitiva diseñada para ayudarte a tener éxito."
+  },
+  "trust": {
+    "title": "Tus Hábitos, Tus Reglas",
+    "description": "Gimu está construido sobre la confianza. Tú controlas exactamente qué compartes y con quién.",
+    "private": "Privado por Defecto",
+    "privateDescription": "Tus hábitos permanecen privados hasta que decidas compartirlos.",
+    "friends": "Solo Amigos Reales",
+    "friendsDescription": "Sin extraños, sin feeds públicos. Solo personas que realmente conoces.",
+    "support": "Apoyo, No Juicio",
+    "supportDescription": "Los amigos animan, no critican. Así funciona Gimu."
+  },
+  "story": {
+    "title": "Por Qué Construimos Gimu",
+    "descriptionPart1": "Todas las apps de hábitos se sentían iguales—descárgala, úsala por una semana, olvídala. Nos dimos cuenta de que lo que faltaba no eran mejores recordatorios o gráficos más elegantes. Eran las",
+    "descriptionHighlight": "personas",
+    "descriptionPart2": ". Cuando tienes amigos reales contando contigo, cumplir se vuelve más fácil. Por eso construimos Gimu—para que todos puedan tener ese sistema de apoyo.",
+    "attribution": "— Construido con la responsabilidad en mente"
+  },
+  "download": {
+    "title": "¿Listo para Construir Hábitos con Amigos?",
+    "description": "Comienza tu camino hoy. Tu yo del futuro te lo agradecerá.",
+    "appStore": "App Store",
+    "appStoreLabel": "Descárgalo en",
+    "playStore": "Google Play",
+    "playStoreLabel": "Consíguelo en"
+  },
+  "footer": {
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "contact": "Contacto",
+    "copyright": "© {year} Gimu. Todos los derechos reservados."
+  },
+  "screenshots_alt": {
+    "betterTogether": "Mejor Juntos",
+    "squadGoals": "Metas del Equipo",
+    "realTalk": "Conversación Real",
+    "mutualGoals": "Metas Mutuas",
+    "sharedVictory": "Victoria Compartida",
+    "startFresh": "Comenzar de Nuevo"
+  }
+}

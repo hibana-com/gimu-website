@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "howItWorks": "Como funciona",
+    "features": "Recursos",
+    "downloadFree": "Baixar Grátis"
+  },
+  "hero": {
+    "badge": "Melhor Juntos",
+    "title": "Construa Hábitos Juntos.",
+    "titleHighlight": "Celebre Juntos.",
+    "description": "O rastreador de hábitos onde amigos te ajudam a comparecer. Receba incentivo quando completar. Receba encorajamento gentil quando estiver atrasado. Sem estranhos. Sem julgamentos. Apenas suas pessoas.",
+    "cta": "Baixar Grátis",
+    "secondary": "Ver Como Funciona"
+  },
+  "howItWorks": {
+    "title": "Como o",
+    "titleHighlight": "Gimu",
+    "titleEnd": "Funciona",
+    "description": "Comece a construir hábitos com amigos em três passos simples.",
+    "step1Title": "Crie um Hábito",
+    "step1Description": "Configure seu hábito diário - seja malhar, ler, meditar ou qualquer outra coisa que você queira desenvolver.",
+    "step2Title": "Convide Seus Amigos",
+    "step2Description": "Adicione amigos que compartilham seus objetivos. Eles verão seu progresso e você verá o deles. A responsabilidade começa aqui.",
+    "step3Title": "Celebre Vitórias Juntos",
+    "step3Description": "Complete diariamente, construa sequências e torçam uns pelos outros. Quando todos comparecem, todos ganham."
+  },
+  "features": {
+    "title": "Recursos projetados para",
+    "titleHighlight": "Consistência",
+    "description": "Tudo que você precisa para construir hábitos duradouros com pessoas que se importam.",
+    "feature1Title": "Encorajamento, Não Culpa",
+    "feature1Description": "Quando um amigo está lutando, envie um incentivo. Mas tem um detalhe: você só pode encorajar depois de ter completado você mesmo. Sem culpa—apenas apoio genuíno.",
+    "feature2Title": "Sequências Que Você Não Pode Deixar Morrer",
+    "feature2Description": "Construa consistência em equipe. Sua sequência de grupo cresce quando todos comparecem. Não é mais só sobre você—seus amigos contam com você.",
+    "feature3Title": "Mantenha-se Conectado",
+    "feature3Description": "Converse com seu grupo dentro de cada hábito. Compartilhe dicas, celebre marcos e mantenham-se motivados sem sair do app."
+  },
+  "screenshots": {
+    "title": "Veja o",
+    "titleHighlight": "Gimu",
+    "titleEnd": "em Ação",
+    "description": "Uma experiência bonita e intuitiva projetada para ajudá-lo a ter sucesso."
+  },
+  "trust": {
+    "title": "Seus Hábitos, Suas Regras",
+    "description": "Gimu é construído sobre confiança. Você controla exatamente o que compartilha e com quem.",
+    "private": "Privado por Padrão",
+    "privateDescription": "Seus hábitos permanecem privados até você escolher compartilhá-los.",
+    "friends": "Apenas Amigos Reais",
+    "friendsDescription": "Sem estranhos, sem feeds públicos. Apenas pessoas que você realmente conhece.",
+    "support": "Apoio, Não Julgamento",
+    "supportDescription": "Amigos encorajam, não criticam. É assim que o Gimu funciona."
+  },
+  "story": {
+    "title": "Por Que Construímos o Gimu",
+    "descriptionPart1": "Todos os apps de hábitos pareciam iguais—baixe, use por uma semana, esqueça que existe. Percebemos que o que faltava não eram melhores lembretes ou gráficos mais bonitos. Eram as",
+    "descriptionHighlight": "pessoas",
+    "descriptionPart2": ". Quando você tem amigos reais contando com você, comparecer fica mais fácil. Por isso construímos o Gimu—para que todos possam ter esse sistema de apoio.",
+    "attribution": "— Construído com responsabilidade em mente"
+  },
+  "download": {
+    "title": "Pronto para Construir Hábitos com Amigos?",
+    "description": "Comece sua jornada hoje. Seu eu do futuro vai agradecer.",
+    "appStore": "App Store",
+    "appStoreLabel": "Baixe na",
+    "playStore": "Google Play",
+    "playStoreLabel": "Disponível no"
+  },
+  "footer": {
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "contact": "Contato",
+    "copyright": "© {year} Gimu. Todos os direitos reservados."
+  },
+  "screenshots_alt": {
+    "betterTogether": "Melhor Juntos",
+    "squadGoals": "Metas do Time",
+    "realTalk": "Conversa Real",
+    "mutualGoals": "Metas Mútuas",
+    "sharedVictory": "Vitória Compartilhada",
+    "startFresh": "Começar do Zero"
+  }
+}

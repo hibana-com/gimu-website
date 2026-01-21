@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "features": "Features",
+    "downloadFree": "Download Free"
+  },
+  "hero": {
+    "badge": "Better Together",
+    "title": "Build Habits Together.",
+    "titleHighlight": "Celebrate Together.",
+    "description": "The habit tracker where friends help you show up. Get cheered on when you complete. Get gentle encouragement when you're behind. No strangers. No judgment. Just your people.",
+    "cta": "Download Free",
+    "secondary": "See How It Works"
+  },
+  "howItWorks": {
+    "title": "How",
+    "titleHighlight": "Gimu",
+    "titleEnd": "Works",
+    "description": "Start building habits with friends in three simple steps.",
+    "step1Title": "Create a Habit",
+    "step1Description": "Set up your daily habit - whether it's working out, reading, meditating, or anything else you want to build.",
+    "step2Title": "Invite Your Friends",
+    "step2Description": "Add friends who share your goals. They'll see your progress and you'll see theirs. Accountability starts here.",
+    "step3Title": "Celebrate Wins Together",
+    "step3Description": "Complete daily, build streaks, and cheer each other on. When everyone shows up, everyone wins."
+  },
+  "features": {
+    "title": "Features designed for",
+    "titleHighlight": "Consistency",
+    "description": "Everything you need to build lasting habits with people who care.",
+    "feature1Title": "Encouragement, Not Guilt",
+    "feature1Description": "When a friend is struggling, send a cheer. But here's the catch: you can only encourage after you've completed yourself. No guilt-tripping—just genuine support.",
+    "feature2Title": "Streaks You Can't Let Die",
+    "feature2Description": "Build consistency as a team. Your group streak grows when everyone shows up. It's not just about you anymore—your friends are counting on you.",
+    "feature3Title": "Stay Connected",
+    "feature3Description": "Chat with your group right inside each habit. Share tips, celebrate milestones, and keep each other motivated without leaving the app."
+  },
+  "screenshots": {
+    "title": "See",
+    "titleHighlight": "Gimu",
+    "titleEnd": "in Action",
+    "description": "A beautiful, intuitive experience designed to help you succeed."
+  },
+  "trust": {
+    "title": "Your Habits, Your Rules",
+    "description": "Gimu is built on trust. You control exactly what you share and with whom.",
+    "private": "Private by Default",
+    "privateDescription": "Your habits stay private until you choose to share them.",
+    "friends": "Real Friends Only",
+    "friendsDescription": "No strangers, no public feeds. Just people you actually know.",
+    "support": "Support, Not Judgment",
+    "supportDescription": "Friends encourage, they don't criticize. That's how Gimu works."
+  },
+  "story": {
+    "title": "Why We Built Gimu",
+    "descriptionPart1": "Every habit app felt the same—download it, use it for a week, forget it exists. We realized the missing piece wasn't better reminders or fancier charts. It was",
+    "descriptionHighlight": "people",
+    "descriptionPart2": ". When you have real friends counting on you, showing up becomes easier. That's why we built Gimu—so everyone can have that support system.",
+    "attribution": "— Built with accountability in mind"
+  },
+  "download": {
+    "title": "Ready to Build Habits With Friends?",
+    "description": "Start your journey today. Your future self will thank you.",
+    "appStore": "App Store",
+    "appStoreLabel": "Download on the",
+    "playStore": "Google Play",
+    "playStoreLabel": "Get it on"
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "copyright": "© {year} Gimu. All rights reserved."
+  },
+  "screenshots_alt": {
+    "betterTogether": "Better Together",
+    "squadGoals": "Squad Goals",
+    "realTalk": "Real Talk",
+    "mutualGoals": "Mutual Goals",
+    "sharedVictory": "Shared Victory",
+    "startFresh": "Start Fresh"
+  }
+}
