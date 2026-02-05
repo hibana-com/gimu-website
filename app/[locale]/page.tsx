@@ -331,13 +331,13 @@ export default async function Home({
               <span className="font-bold text-lg">Gimu</span>
             </div>
             <div className="flex gap-8 text-foreground-muted text-sm font-medium">
-              <a href="#" className="hover:text-gimu-primary transition-colors">
+              <Link href={`/${locale}/privacy`} className="hover:text-gimu-primary transition-colors">
                 {dict.footer.privacy}
-              </a>
-              <a href="#" className="hover:text-gimu-primary transition-colors">
+              </Link>
+              <Link href={`/${locale}/terms`} className="hover:text-gimu-primary transition-colors">
                 {dict.footer.terms}
-              </a>
-              <a href="#" className="hover:text-gimu-primary transition-colors">
+              </Link>
+              <a href="mailto:contact@gimu.app" className="hover:text-gimu-primary transition-colors">
                 {dict.footer.contact}
               </a>
             </div>

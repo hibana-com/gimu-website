@@ -67,6 +67,12 @@
     "playStoreLabel": "Consíguelo en",
     "comingSoon": "¡Próximamente! Mantente atento."
   },
+  "legal": {
+    "privacyTitle": "Política de Privacidad",
+    "privacyDescription": "Conoce cómo Gimu recopila, usa y protege tu información personal.",
+    "termsTitle": "Términos de Servicio",
+    "termsDescription": "Lee los términos y condiciones para usar la aplicación Gimu."
+  },
   "footer": {
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",

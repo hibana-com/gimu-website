@@ -67,6 +67,12 @@
     "playStoreLabel": "에서 받기",
     "comingSoon": "곧 출시! 기대해 주세요."
   },
+  "legal": {
+    "privacyTitle": "개인정보처리방침",
+    "privacyDescription": "Gimu가 개인정보를 어떻게 수집, 사용, 보호하는지 알아보세요.",
+    "termsTitle": "서비스 약관",
+    "termsDescription": "Gimu 앱 사용을 위한 이용약관을 확인하세요."
+  },
   "footer": {
     "privacy": "개인정보처리방침",
     "terms": "서비스 약관",

@@ -67,6 +67,12 @@
     "playStoreLabel": "Get it on",
     "comingSoon": "Coming Soon! Stay tuned."
   },
+  "legal": {
+    "privacyTitle": "Privacy Policy",
+    "privacyDescription": "Learn how Gimu collects, uses, and protects your personal information.",
+    "termsTitle": "Terms of Service",
+    "termsDescription": "Read the terms and conditions for using the Gimu app."
+  },
   "footer": {
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
