@@ -205,6 +205,9 @@ export default async function TermsOfService({
                 {dict.footer.privacy}
               </Link>
               <span className="text-foreground">{dict.footer.terms}</span>
+              <Link href={`/${locale}/support`} className="hover:text-gimu-primary transition-colors">
+                {dict.footer.support}
+              </Link>
               <a href="mailto:contact@gimu.app" className="hover:text-gimu-primary transition-colors">
                 {dict.footer.contact}
               </a>

@@ -76,8 +76,29 @@
   "footer": {
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
+    "support": "Suporte",
     "contact": "Contato",
     "copyright": "© {year} Gimu. Todos os direitos reservados."
+  },
+  "support": {
+    "title": "Suporte",
+    "description": "Tem alguma dúvida ou está enfrentando um problema? Estamos aqui para ajudar.",
+    "contactTitle": "Entre em Contato",
+    "contactDescription": "Para qualquer dúvida, relatório de bugs ou feedback, envie-nos um e-mail e responderemos o mais rápido possível.",
+    "faqTitle": "Perguntas Frequentes",
+    "faq1Question": "Como crio uma conta?",
+    "faq1Answer": "Baixe o Gimu na App Store ou Google Play, toque em Cadastrar e crie sua conta com um endereço de e-mail. Você escolherá um nome de exibição e um nome de usuário único que seus amigos podem usar para encontrá-lo.",
+    "faq2Question": "Como compartilho um hábito com um amigo?",
+    "faq2Answer": "Abra qualquer hábito e toque no botão de convite. Procure seu amigo pelo nome de usuário e envie um convite. Eles precisarão aceitar antes de serem adicionados ao hábito. Ambos poderão ver o progresso um do outro.",
+    "faq3Question": "Posso manter alguns hábitos privados?",
+    "faq3Answer": "Sim. Cada hábito tem um interruptor de privacidade. Hábitos privados não aparecerão no feed de atividade dos seus amigos e apenas você pode vê-los. Você controla exatamente o que compartilha.",
+    "faq4Question": "Como funcionam as sequências?",
+    "faq4Answer": "Sua sequência conta o número de dias consecutivos em que você completou um hábito. Perca um dia e ela é reiniciada. Para hábitos compartilhados, você também pode ver as sequências dos seus amigos. Alcance 3 dias e sua sequência pega fogo!",
+    "faq5Question": "Como excluo minha conta?",
+    "faq5Answer": "Você pode solicitar a exclusão da conta enviando um e-mail para support@gimu.app. Excluiremos todos os seus dados pessoais dentro de 30 dias, conforme descrito em nossa Política de Privacidade.",
+    "faq6Question": "O Gimu está disponível no meu idioma?",
+    "faq6Answer": "O Gimu está disponível em inglês, alemão, espanhol, francês, italiano, japonês, coreano e português. O aplicativo usará automaticamente o idioma do seu dispositivo se for um desses.",
+    "linksTitle": "Links Úteis"
   },
   "screenshots_alt": {
     "betterTogether": "Melhor Juntos",

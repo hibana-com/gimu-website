@@ -76,8 +76,29 @@
   "footer": {
     "privacy": "Datenschutzrichtlinie",
     "terms": "Nutzungsbedingungen",
+    "support": "Support",
     "contact": "Kontakt",
     "copyright": "© {year} Gimu. Alle Rechte vorbehalten."
+  },
+  "support": {
+    "title": "Support",
+    "description": "Hast du eine Frage oder ein Problem? Wir helfen dir gerne.",
+    "contactTitle": "Kontaktiere uns",
+    "contactDescription": "Bei Fragen, Fehlermeldungen oder Feedback schreib uns eine E-Mail. Wir melden uns so schnell wie möglich.",
+    "faqTitle": "Häufig gestellte Fragen",
+    "faq1Question": "Wie erstelle ich ein Konto?",
+    "faq1Answer": "Lade Gimu aus dem App Store oder Google Play herunter, tippe auf Registrieren und erstelle dein Konto mit einer E-Mail-Adresse. Du wählst einen Anzeigenamen und einen eindeutigen Benutzernamen, über den Freunde dich finden können.",
+    "faq2Question": "Wie teile ich eine Gewohnheit mit einem Freund?",
+    "faq2Answer": "Öffne eine Gewohnheit und tippe auf den Einladen-Button. Suche deinen Freund über seinen Benutzernamen und sende eine Einladung. Er muss akzeptieren, bevor er hinzugefügt wird. Danach könnt ihr gegenseitig euren Fortschritt sehen.",
+    "faq3Question": "Kann ich Gewohnheiten privat halten?",
+    "faq3Answer": "Ja. Jede Gewohnheit hat einen Privatsphäre-Schalter. Private Gewohnheiten erscheinen nicht im Aktivitäts-Feed deiner Freunde und nur du kannst sie sehen. Du bestimmst, was du teilst.",
+    "faq4Question": "Wie funktionieren Streaks?",
+    "faq4Answer": "Dein Streak zählt die aufeinanderfolgenden Tage, an denen du eine Gewohnheit abgeschlossen hast. Verpasst du einen Tag, wird er zurückgesetzt. Bei geteilten Gewohnheiten kannst du auch die Streaks deiner Freunde sehen. Ab 3 Tagen fängt dein Streak Feuer!",
+    "faq5Question": "Wie lösche ich mein Konto?",
+    "faq5Answer": "Du kannst die Kontolöschung per E-Mail an support@gimu.app beantragen. Wir löschen alle deine persönlichen Daten innerhalb von 30 Tagen, wie in unserer Datenschutzrichtlinie beschrieben.",
+    "faq6Question": "Ist Gimu in meiner Sprache verfügbar?",
+    "faq6Answer": "Gimu ist verfügbar auf Deutsch, Englisch, Spanisch, Französisch, Italienisch, Japanisch, Koreanisch und Portugiesisch. Die App verwendet automatisch die Sprache deines Geräts, wenn sie unterstützt wird.",
+    "linksTitle": "Nützliche Links"
   },
   "screenshots_alt": {
     "betterTogether": "Besser Zusammen",

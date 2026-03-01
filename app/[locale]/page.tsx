@@ -337,6 +337,9 @@ export default async function Home({
               <Link href={`/${locale}/terms`} className="hover:text-gimu-primary transition-colors">
                 {dict.footer.terms}
               </Link>
+              <Link href={`/${locale}/support`} className="hover:text-gimu-primary transition-colors">
+                {dict.footer.support}
+              </Link>
               <a href="mailto:contact@gimu.app" className="hover:text-gimu-primary transition-colors">
                 {dict.footer.contact}
               </a>

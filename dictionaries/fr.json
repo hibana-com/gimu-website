@@ -76,8 +76,29 @@
   "footer": {
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
+    "support": "Assistance",
     "contact": "Contact",
     "copyright": "© {year} Gimu. Tous droits réservés."
+  },
+  "support": {
+    "title": "Assistance",
+    "description": "Vous avez une question ou un problème ? Nous sommes là pour vous aider.",
+    "contactTitle": "Nous contacter",
+    "contactDescription": "Pour toute question, signalement de bug ou commentaire, envoyez-nous un e-mail et nous vous répondrons dès que possible.",
+    "faqTitle": "Questions Fréquentes",
+    "faq1Question": "Comment créer un compte ?",
+    "faq1Answer": "Téléchargez Gimu depuis l'App Store ou Google Play, appuyez sur S'inscrire et créez votre compte avec une adresse e-mail. Vous choisirez un nom d'affichage et un nom d'utilisateur unique que vos amis pourront utiliser pour vous trouver.",
+    "faq2Question": "Comment partager une habitude avec un ami ?",
+    "faq2Answer": "Ouvrez une habitude et appuyez sur le bouton d'invitation. Recherchez votre ami par son nom d'utilisateur et envoyez une invitation. Il devra accepter avant d'être ajouté à l'habitude. Vous pourrez ensuite voir mutuellement votre progression.",
+    "faq3Question": "Puis-je garder certaines habitudes privées ?",
+    "faq3Answer": "Oui. Chaque habitude dispose d'un interrupteur de confidentialité. Les habitudes privées n'apparaîtront pas dans le fil d'activité de vos amis et vous seul pouvez les voir. Vous contrôlez exactement ce que vous partagez.",
+    "faq4Question": "Comment fonctionnent les séries ?",
+    "faq4Answer": "Votre série compte le nombre de jours consécutifs où vous avez complété une habitude. Manquez un jour et elle se réinitialise. Pour les habitudes partagées, vous pouvez aussi voir les séries de vos amis. Atteignez 3 jours et votre série s'enflamme !",
+    "faq5Question": "Comment supprimer mon compte ?",
+    "faq5Answer": "Vous pouvez demander la suppression de votre compte en envoyant un e-mail à support@gimu.app. Nous supprimerons toutes vos données personnelles dans les 30 jours, comme décrit dans notre Politique de Confidentialité.",
+    "faq6Question": "Gimu est-il disponible dans ma langue ?",
+    "faq6Answer": "Gimu est disponible en anglais, allemand, espagnol, français, italien, japonais, coréen et portugais. L'application utilisera automatiquement la langue de votre appareil si elle fait partie de celles-ci.",
+    "linksTitle": "Liens Utiles"
   },
   "screenshots_alt": {
     "betterTogether": "Mieux Ensemble",

@@ -76,8 +76,29 @@
   "footer": {
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
+    "support": "Support",
     "contact": "Contact",
     "copyright": "© {year} Gimu. All rights reserved."
+  },
+  "support": {
+    "title": "Support",
+    "description": "Have a question or running into an issue? We're here to help.",
+    "contactTitle": "Get in Touch",
+    "contactDescription": "For any questions, bug reports, or feedback, send us an email and we'll get back to you as soon as we can.",
+    "faqTitle": "Frequently Asked Questions",
+    "faq1Question": "How do I create an account?",
+    "faq1Answer": "Download Gimu from the App Store or Google Play, tap Sign Up, and create your account with an email address. You'll choose a display name and a unique username that friends can use to find you.",
+    "faq2Question": "How do I share a habit with a friend?",
+    "faq2Answer": "Open any habit and tap the invite button. Search for your friend by their username, then send an invitation. They'll need to accept before they're added to the habit. Both of you can then see each other's progress.",
+    "faq3Question": "Can I keep some habits private?",
+    "faq3Answer": "Yes. Every habit has a privacy toggle. Private habits won't appear in your friends' activity feed and only you can see them. You control exactly what you share.",
+    "faq4Question": "How do streaks work?",
+    "faq4Answer": "Your streak counts the number of consecutive days you've completed a habit. Miss a day and it resets. For shared habits, you can see your friends' streaks too. Hit 3 days and your streak catches fire!",
+    "faq5Question": "How do I delete my account?",
+    "faq5Answer": "You can request account deletion by emailing support@gimu.app. We'll delete all your personal data within 30 days of your request, as described in our Privacy Policy.",
+    "faq6Question": "Is Gimu available in my language?",
+    "faq6Answer": "Gimu is available in English, German, Spanish, French, Italian, Japanese, Korean, and Portuguese. The app will automatically use your device's language if it's one of these.",
+    "linksTitle": "Helpful Links"
   },
   "screenshots_alt": {
     "betterTogether": "Better Together",
