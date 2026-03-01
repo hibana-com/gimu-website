@@ -93,7 +93,7 @@
     "faq3Question": "Can I keep some habits private?",
     "faq3Answer": "Yes. Every habit has a privacy toggle. Private habits won't appear in your friends' activity feed and only you can see them. You control exactly what you share.",
     "faq4Question": "How do streaks work?",
-    "faq4Answer": "Your streak counts the number of consecutive days you've completed a habit. Miss a day and it resets. For shared habits, you can see your friends' streaks too. Hit 3 days and your streak catches fire!",
+    "faq4Answer": "Your streak counts consecutive completions based on your habit's schedule — daily, specific days, or weekly goals. For shared habits, the streak is a group effort: everyone in the habit needs to complete it for the streak to continue. Hit 3 in a row and your streak catches fire!",
     "faq5Question": "How do I delete my account?",
     "faq5Answer": "You can request account deletion by emailing support@gimu.app. We'll delete all your personal data within 30 days of your request, as described in our Privacy Policy.",
     "faq6Question": "Is Gimu available in my language?",
